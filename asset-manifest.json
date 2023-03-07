@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pay2me/static/css/main.8fea0df9.css",
+    "main.css": "/pay2me/static/css/main.c5739eff.css",
     "main.js": "/pay2me/static/js/main.e1813a74.js",
     "static/media/right-side.png": "/pay2me/static/media/right-side.34f6da62e42b5b96d7b2.png",
     "static/media/en.svg": "/pay2me/static/media/en.180373b9ed2b085b02f8de07dc6eb49e.svg",
@@ -12,11 +12,11 @@
     "static/media/ru.svg": "/pay2me/static/media/ru.b30db0d43fab7bca1f0473ec852e3679.svg",
     "static/media/arrow-left.svg": "/pay2me/static/media/arrow-left.c20210ad233bdbea58a2f7df3d16a07a.svg",
     "static/media/arrow-right.svg": "/pay2me/static/media/arrow-right.f2f68f6ce93f6de716d6dd95d76f35ba.svg",
-    "main.8fea0df9.css.map": "/pay2me/static/css/main.8fea0df9.css.map",
+    "main.c5739eff.css.map": "/pay2me/static/css/main.c5739eff.css.map",
     "main.e1813a74.js.map": "/pay2me/static/js/main.e1813a74.js.map"
   },
   "entrypoints": [
-    "static/css/main.8fea0df9.css",
+    "static/css/main.c5739eff.css",
     "static/js/main.e1813a74.js"
   ]
 }
