@@ -44,6 +44,12 @@
     line-height: 18px;
     color: #a197bd;
   }
+
+  @media screen and (-webkit-min-device-pixel-ratio: 0) {
+    input {
+      font-size: 14px;
+    }
+  }
 }
 
 .error {
